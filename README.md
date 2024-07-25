@@ -1,10 +1,10 @@
 # Prosta Gra RPG,Dungeon Crawler (C++ i SFML)
 
 Ten prosty projet napisany w C++ z biblioteką SFML był projektem zaliczeniowym z przedmiotu "Wstep to programowania" na I roku studiów w 2021 roku.
-W grze gracz pokonuje loswo generowane pokoje walczac z przeciwnikami i zbierajac skarby powoli zwiekszajac sile swojego bohatera.
-Bohater moze zdobywac nowe poziomy zwiekszajc swoje statystyki, nauczyc sie 4 zaklec oraz odnalezc 10 przedmiotow.
-Projekt nie jest w 100% oryginalja wersja. Obecna wersja posiada mojego autorstwa grafike, pare usprawnien quality of life oraz nowy system generowania lochow.
-Pierwotny system jak i sama gra byla pełna blędow. Teraz jest ich znacznie mniej.
+W grze gracz pokonuje loswo generowane pokoje walcząc z przeciwnikami i zbierając skarby powoli zwiekszajac siłe swojego bohatera.
+Bohater może zdobywać nowe poziomy zwiekszając swoje statystyki, nauczyć sie 4 zaklęć oraz odnaleźć 10 przedmiotów.
+Projekt nie jest w 100% oryginalną wersją. Obecna wersja posiada mojego autorstwa grafike (orginał korzystał z darmowych do poprawnia assetów), pare usprawnień quality of life oraz nowy system generowania lochów.
+Pierwotny system jak i sama gra była pełna błędów. Teraz jest ich znacznie mniej.
 
 Wyglad gry:
 
